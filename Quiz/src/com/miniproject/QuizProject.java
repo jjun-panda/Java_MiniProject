@@ -9,8 +9,6 @@ public class QuizProject extends JPanel{
     JLabel tite_M,tite_S, tite_MG;
     JLabel javaImg, pythonImg, designImg, comImg, htmlImg, cssImg;
     JLabel javaTxt, pythonTxt, designTxt, comTxt, htmlTxt, cssTxt;
-    JLabel label5;
-    JLabel label6;
 
     public QuizProject() {
 
